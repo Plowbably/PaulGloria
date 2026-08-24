@@ -6,7 +6,7 @@
         }
 
         body {
-            background-image: linear-gradient(rgba(255, 255, 255, 0.50), rgba(255, 255, 255, 0.50)), url('../assets/qcu.png');
+            background-image: linear-gradient(rgba(255, 255, 255, 0.50), rgba(255, 255, 255, 0.50)), url('qcu.png');
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
